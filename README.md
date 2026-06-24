@@ -1,13 +1,13 @@
 # Mi Primer PR
 
-Un proyecto de practica para aprender a usar GitHub con Claude Code.
+Un proyecto de práctica para aprender a usar GitHub con Claude Code.
 
-## Que incluye
+## Qué incluye
 
 - Un script simple en Python
 - Este README
 
-## Como usar
+## Cómo usar
 
 ```bash
 python hola.py
